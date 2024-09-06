@@ -1,5 +1,5 @@
 var images = [
-  "https://app.gemoo.com/share/image-annotation/689963275224674304?codeId=vzq0j9Jb3KG4a&origin=imageurlgenerator"
+  "https://img.freepik.com/free-vector/relax-chill-out-city-bustle-cartoon-vector-concept_33099-1385.jpg?t=st=1725467749~exp=1725471349~hmac=9e2334578cb3c8b3a6604ffbcfd6c392ab69e8ae145130d6bba5ac7e2f80d171&w=826",
 ];
 
 var currentIndex = 0;
